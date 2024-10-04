@@ -1,4 +1,4 @@
-package lesson2;
+package Massive2;
 
 public class Solution1 {
     public static char[][] chars = {

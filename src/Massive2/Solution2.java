@@ -1,4 +1,4 @@
-package lesson2;
+package Massive2;
 
 import java.util.Scanner;
 
